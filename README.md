@@ -1,3 +1,3 @@
-# dynamic-neural-networks
+# Dynamic-Neural-Networks
 
-## a neural networks that adapts its parameters for each and every example.
+## A neural networks that adapts its parameters for each and every example.
